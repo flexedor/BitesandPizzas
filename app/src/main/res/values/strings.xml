@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bites and Pizzas</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="title_top">Top fragment</string>
+    <string-array name="pizzas">
+        <item>Diavlo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>Spoghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Store</string>
+    <string name="company_name">Bites and Pizzas</string>
+    <string name="restuarans_image">Restarauns image</string>
+    <string name="home_text">We are pleased to report that we had an amazing first few
+        weeks and things are going really well. Thank you to everyone who
+        is supported us in our first month by popping in for a
+        coffee, a game, or becoming a member. It is because
+        of your support that Coffee  Dice can be here.</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
+</resources>
